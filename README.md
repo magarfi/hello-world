@@ -1,3 +1,2 @@
 # hello-world
-Github de prueba
-With a big cock
+Github de prueba, with a big cock
